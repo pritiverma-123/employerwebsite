@@ -97,7 +97,8 @@
       background-color: rgb(0,178,163);
     }
     .faster_sectioncss{
-        background-color: white;  
+        background-color: white;
+        margin: 2px;  
     }
     .faster_color{
        padding-top: 6rem;
@@ -166,7 +167,7 @@
       .post_btn{
         width: 100%;
         background-color: rgb(232,200,13);
-        font-size: 1.25rem;
+        font-size: 1.10rem;
         color: #0E0E24;
         height: 61px;
        font-weight: 700;
@@ -239,4 +240,207 @@
         padding-top: 5px;
         font-weight:700;
       }
+      .accordion_backcolor{
+        background-color:rgb(244,244,244);
+        padding-bottom: 6rem;
+        padding-top: 8rem;
+      }
+
+      /* GET GREAT FEATURES WITH CAREERBUILDER JOB POSTINGS start css */
+      .greatfeature_color{
+        background-color: rgb(47,75,160);
+       padding: 35px 15px;
+      }
+      .feature_heading h3{
+        color: white;
+        letter-spacing: 2px;
+        text-align: center;
+        padding-top: 45px;
+        font-weight: 700;
+      }
+      .feature_heading h6{
+        color: white;
+        letter-spacing: 2px;
+        text-align: center;
+        padding-top: 10px;
+        font-weight: 500;
+      }
+      .feature_sec h5{
+        color: white;
+        font-weight:750;
+        letter-spacing: 1px;
+      }
+      .feature_sec p{
+        color: white; 
+        letter-spacing: 1px;
+        font-weight: 550;
+        font-size: 14px;
+        line-height: 20px;
+      }
+      .featurrow_css{
+        padding-top: 50px;
+        padding-bottom: 60px;
+      }
+
+
+ /* GET GREAT FEATURES WITH CAREERBUILDER JOB POSTINGS end css */
+
+
+      /* See Why CareerBuilder Jobs Get You Faster start css */
+          .careerbuilder_css{
+            padding-top:5rem;
+            text-align: center;
+             
+          }
+
+          .postjob_textcss h2{
+          font-weight: 700;
+             letter-spacing: 1px;
+             color: #666666;
+             font-size: 0.95rem;
+          }
+          .postjob_textcss p{
+            letter-spacing: 1px;
+            font-size: 36px;
+            color: #182642;
+            font-weight: 700;
+            padding-top: 1rem;
+            
+          }
+          .img_sectionpadding{
+            padding-top: 2rem;
+          }
+          .postjob_imgcss{
+            height:100px;
+            background-color: rgb(232,200,13);
+            border-radius: 50%;
+            font-weight: 800;
+          }
+          .post-jobs__benefits__text h3 {
+            text-transform: none;
+            font-size: 1.20rem;
+            padding-top: 15px;
+            font-weight:700;
+        }
+        .increase_text{
+          color: #666;
+          text-align: center;
+          font-weight: 500;
+          font-size: 16px;
+          line-height: 24px;
+        }
+        .open_apicss{
+          color: #0E0E24;
+          text-decoration: none!important;
+          font-weight: 700;
+          /* font-family: Barlow, Arial, sans-serif; */
+          cursor: pointer;
+        }
+        .open_apicss:hover{
+          color:#0E0E24 ;
+        }
+
+        /* See Why CareerBuilder Jobs Get You Faster end css */
+
+        /* NEED MORE THAN 35 JOBS start css */
+        .needmore_sectioncss{
+             background-color: rgb(232,200,13);
+             padding-top: 6rem;
+             padding-bottom: 6rem;
+        }
+        .enterprise_textcss{
+          text-align: center;
+        }
+        .enterprise_textcss h5{
+          font-weight: 700;
+          text-transform: uppercase;
+          font-size: 0.95rem;
+          letter-spacing: 1px;
+          color: #0E0E24
+        }
+        .enterprise_textcss h2{
+          margin-bottom: 12px;
+    color: #0E0E24;
+    font-weight: 700;
+        }
+        .enterprise_textcss p{
+          margin-bottom: 30px;
+          color: #0E0E24;
+         font-weight: 600;
+         font-size: 17px;
+        }
+        .enterprise_textcss a{
+          color: #0E0E24 !important;
+          border: 2px solid #0E0E24 !important;
+          background: white;
+          font-size: 16px;
+          line-height: 1.2em;
+          text-transform: uppercase;
+          border-radius: 5px;
+          font-weight: 700;
+          padding: 14px;
+        }
+        .enterprise_textcss a:hover{
+          background-color: #0E0E24;
+          color: white!important;
+          text-decoration: underline;
+        }
+
+
+
+
+          /* NEED MORE THAN 35 JOBS end css */
+   /* ===== Footer section Start ====== */
+   .fottersection_css{
+    background-color: rgb(47,75,160);
+    padding-top: 60px;
+    padding-bottom:10px;
+  }
+  .footer_css h6{
+    color: white;
+    letter-spacing: 1px;
+    font-size: 16px;
+    font-weight:700;
+  }
+  .footer_css ul li {
+    list-style: none;
+   
+  }
+  .footer_css ul li a{
+    color: white;
+    text-decoration: none;
+    line-height: 32px;
+    font-weight: 400;
+    margin-bottom: 12px;
+    opacity: 0.8;
     
+  }
+  .footer_css ul li a:hover{
+    opacity: 1;
+  }
+  .footer_css ul li span{
+    font-weight: 700;
+    color: white;
+    letter-spacing: 1px;
+    opacity: 0.8;
+  }
+  .footer_css ul {
+    padding-inline-start: 2px ;
+  }
+  .footer_css .footer_icon span a{
+    color: white;
+    text-decoration: none;
+    margin: 8px;
+    font-size: 20px;
+  }
+
+  .footer_logo img{
+    height: 34px;
+  }
+  .footer_logo p{
+    color: white;
+    padding-top: 10px;
+    font-weight: 500;
+  }
+ /* ===== Footer section End ====== */
+     
